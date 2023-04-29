@@ -1,7 +1,0 @@
-numpy
-seaborn
-matplotlib
-pandas
-ipywidgets
-voila
-sklearn
